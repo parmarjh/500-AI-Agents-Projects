@@ -64,7 +64,7 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 | **E-commerce Personal Shopper Agent** | E-commerce       | Helps customers find products they’ll love.             | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Hoanganhvu123/ShoppingGPT)                                                                     |
 | **Logistics Optimization Agent**      | Supply Chain     | Plans efficient delivery routes and manages inventory.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/OptiGuide)                                                                           |
 | **Stride AI Agents**  | autonomous  | Plans  gateway to building, implementing, and mastering autonomous AI systems. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/joshpocock/Stride-AI-Agents/tree/main)                                         | 
-| **MediSuite-Ai-Agent**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
+| **MediSuite-Ai-Agent**  | Health home  | Medical Chatbot for injuries sustained at home. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/dina-khalid/Lina-Egyptian-Medical-Chatbot)                                         | 
 
 
 
