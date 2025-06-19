@@ -63,7 +63,7 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 | **Real-Time Threat Detection Agent**  | Cybersecurity    | Identifies potential threats and mitigates attacks.      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/NVISOsecurity/cyber-security-llm-agents)                                                       |
 | **E-commerce Personal Shopper Agent** | E-commerce       | Helps customers find products they’ll love.             | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Hoanganhvu123/ShoppingGPT)                                                                     |
 | **Logistics Optimization Agent**      | Supply Chain     | Plans efficient delivery routes and manages inventory.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/OptiGuide)                                                                           |
-| **Stride AI Agents**      | autonomous AI systems     | Plans  gateway to building, implementing, and mastering autonomous AI systems.   | [! [GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github) (https://github.com/joshpocock/Stride-AI-Agents/tree/main)                                                                           |
+| **Stride AI Agents**      | autonomous AI systems     | Plans  gateway to building, implementing, and mastering autonomous AI systems.|   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/joshpocock/Stride-AI-Agents/tree/main)                                                                           |
 
 
 
